@@ -48,7 +48,7 @@ public class MultiScreenDimension {
             this.combinedScreenWidth += dm.getWidth();
         }
         screenDetails = sb.toString();
-        System.out.println(screenDetails);
+        //System.out.println(screenDetails);
     }
     
     public int getRandomHeight() {
